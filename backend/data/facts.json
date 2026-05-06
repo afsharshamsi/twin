@@ -1,0 +1,21 @@
+{
+  "full_name": "Afshar Shamsi",
+  "name": "Afshar",
+  "current_role": "ML Engineer",
+  "location": "Montreal, Canada",
+  "email": "afshar.shamsi@gmail.com",
+  "linkedin": "linkedin.com/in/yourprofile",
+  "specialties": [
+    "Your specialty 1",
+    "Your specialty 2",
+    "Your specialty 3"
+  ],
+  "years_experience": 10,
+  "education": [
+    {
+      "degree": "PhD in Computer Science",
+      "institution": "Your University",
+      "year": "2026"
+    }
+  ]
+}
