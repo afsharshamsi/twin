@@ -29,7 +29,7 @@ __pycache__/
 *.pyc
 .venv/
 venv/
-week2/
+
 
 # IDE
 .vscode/
